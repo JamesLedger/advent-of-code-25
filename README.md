@@ -7,4 +7,4 @@ It's more about learning about new languages and how they're set up. Starting wi
 # 12 Days
 
 Day 1 - Python ⭐
-Day 2 - Typescript
+Day 2 - Typescript ⭐

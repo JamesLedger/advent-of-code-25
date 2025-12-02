@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "types": ["bun-types"],
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "module": "esnext",
+    "target": "esnext"
+  }
+}
